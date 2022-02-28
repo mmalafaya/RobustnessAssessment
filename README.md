@@ -6,3 +6,5 @@ The post-hoc models are implemented in a pre-trained CNN that predicts lung nodu
 The expected results are the following:
 
 <img width="472" alt="m16" src="https://user-images.githubusercontent.com/100602009/156016160-6b611929-6e36-40b6-adf9-befe244d8697.png">
+
+This code is built using the publicly LIDC-IDRI Dataset for lung cancer screening.
